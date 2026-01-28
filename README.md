@@ -36,6 +36,13 @@ The project evaluates multiple CSP strategies and heuristics on two real-world m
 Each algorithm is tested both **with and without heuristics**.
 
 ---
+## 📸 Screenshots
+
+### 🔹 Program Execution & Results
+![Screenshot 1](1.png)
+
+### 🔹 Summary Table Output
+![Screenshot 2](2.png)
 
 ## 🗺 Maps Used
 
